@@ -1,0 +1,14 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Connection Data Base MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Maestro",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
